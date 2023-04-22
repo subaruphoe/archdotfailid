@@ -13,7 +13,7 @@ Subaru Asahi Linux'i konfigud
 | **Aknahaldur**                | [Hyprland](https://github.com/hyprwm/Hyprland)                                                               |
 | **Terminal**                  | [Alacritty](https://github.com/alacritty/alacritty)                                                          |
 | **Tegumiriba**                | [Waybar](https://github.com/Alexays/Waybar)                                                                  |
-| **Brauser**                   | [Firefox](www.mozilla.org/et)                                                                                |
+| **Brauser**                   | [Firefox](www.mozilla.org/et) with [firefoxpwa](https://github.com/filips123/PWAsForFirefox) & [Dark Reader](https://addons.mozilla.org/et/firefox/addon/darkreader/)                                                                                      |
 | **Fetchimine**                | [Hyfetch](https://github.com/hykilpikonna/hyfetch)                                                           |
 | **Sisestusmeetodi raamistik** | [Fcitx5](https://github.com/fcitx/fcitx5)                                                                    |
 | **Failihaldur**               | [Dolphin](https://github.com/KDE/dolphin)                                                                    |
