@@ -1,6 +1,11 @@
 # archdotfailid
 Subaru Asahi Linux'i konfigud
 
+## Pildid
+
+<p align="center"><img src="https://github.com/Subarupan/archdotfailid/blob/main/assets/Hyprland_ekraanipilt.png"></p>
+<p align="center"><img src="https://github.com/Subarupan/archdotfailid/blob/main/assets/SDDM_ekraanipilt.png"></p>
+
 ## Mu tööriistad
 |                               | Arch Linux ARM (Asahi)                                                                                       |
 |-------------------------------|:------------------------------------------------------------------------------------------------------------:|
