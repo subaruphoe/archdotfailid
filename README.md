@@ -9,7 +9,7 @@ Subaru Asahi Linux'i konfigud
 ## Mu tööriistad
 |                               | Arch Linux ARM (Asahi)                                                                                       |
 |-------------------------------|:------------------------------------------------------------------------------------------------------------:|
-| **Värviskeem**                | [Catppuccin-Frappé](https://github.com/catppuccin/catppuccin)                                                |
+| **Värviskeem**                | [Catppuccin Frappé - Blue](https://github.com/catppuccin/catppuccin)                                         |
 | **Aknahaldur**                | [Hyprland](https://github.com/hyprwm/Hyprland)                                                               |
 | **Terminal**                  | [Alacritty](https://github.com/alacritty/alacritty)                                                          |
 | **Tegumiriba**                | [Waybar](https://github.com/Alexays/Waybar)                                                                  |
