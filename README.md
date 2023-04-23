@@ -11,7 +11,7 @@ Subaru Asahi Linux'i konfigud
 |-------------------------------|:------------------------------------------------------------------------------------------------------------:|
 | **Seade**                     | 14-tolline MacBook Pro (M1 Pro, 2021)
 | **Värviskeem**                | [Catppuccin Frappé - Blue](https://github.com/catppuccin/catppuccin)                                         |
-| **Aknahaldur**                | [Hyprland](https://github.com/hyprwm/Hyprland)                                                               |
+| **Aknahaldur**                | [Hyprland](https://github.com/hyprwm/Hyprland) (LegacyRendereriga)                                           |
 | **Terminal**                  | [Alacritty](https://github.com/alacritty/alacritty)                                                          |
 | **Tegumiriba**                | [Waybar](https://github.com/Alexays/Waybar)                                                                  |
 | **Brauser**                   | [Firefox](www.mozilla.org/et) with [firefoxpwa](https://github.com/filips123/PWAsForFirefox) & [Dark Reader](https://addons.mozilla.org/et/firefox/addon/darkreader/)                                                                                      |
