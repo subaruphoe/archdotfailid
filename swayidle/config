@@ -1,0 +1,4 @@
+timeout 300 'hyprctl dispatch dpms off' resume 'hyprctl dispatch dpms on'
+timeout 305 'swaylock -C ~/swaylock/frappe.conf -i ~/Allalaadimised/landscapes/evening-sky.png --clock --indicator'
+before-sleep 'swaylock -C ~/swaylock/frappe.conf -i ~/Allalaadimised/landscapes/evening-sky.png --clock --indicator'
+
