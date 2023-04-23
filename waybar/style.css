@@ -103,7 +103,7 @@
     padding-left: 10px;
     padding-right: 10px;
     margin-left: 5px;
-    margin-top: 3px;
+    margin-top: 4px;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-bottom: 3px;
@@ -112,7 +112,7 @@
     margin-right: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-top: 3px;
+    margin-top: 4px;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-bottom: 3px;
@@ -170,18 +170,18 @@
 /* Workspaces stuff */
 
 #workspaces {
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 
 #workspaces button {
 	font-weight: bold;
-	padding-left: 9px;
-	padding-right: 9px;
+	padding-left: 10px;
+	padding-right: 10px;
 	color: @light;
 	background: @workspaces;
-    border-radius: 10px;
-    margin-top: 3px;
+    border-radius: 50%;
+    margin-top: 4px;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-bottom: 3px;
@@ -203,60 +203,67 @@
 
 #custom-alsa {
 	background: @sound;
-    border-radius: 10px;
+    border-radius: 8px;
 
 }
 
 #network {
     background: @network;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #memory {
     background: @memory;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #cpu {
     background: @cpu;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #temperature {
     background: @temp;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #custom-layout {
     background: @layout;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #battery {
     background: @battery;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
+    border-radius: 8px;
+    border-top-right-radius: 16px;
+    margin-right: 5px;
+
+    /* border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px; */
 }
 
 #backlight {
 	background: @backlight;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #clock {
     background: @date;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
+    border-radius: 8px;
+    border-top-left-radius: 16px;
+    margin-left: 5px;
+    /* border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px; */
 }
 
 
 #pulseaudio {
     background: @sound;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 
 #tray {
 	background: @tray;
-    border-radius: 10px;
+    border-radius: 8px;
 }
