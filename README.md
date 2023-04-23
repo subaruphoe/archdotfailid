@@ -9,6 +9,7 @@ Subaru Asahi Linux'i konfigud
 ## Mu tööriistad
 |                               | Arch Linux ARM (Asahi)                                                                                       |
 |-------------------------------|:------------------------------------------------------------------------------------------------------------:|
+| **Seade**                     | 14-tolline MacBook Pro (M1 Pro, 2021)
 | **Värviskeem**                | [Catppuccin Frappé - Blue](https://github.com/catppuccin/catppuccin)                                         |
 | **Aknahaldur**                | [Hyprland](https://github.com/hyprwm/Hyprland)                                                               |
 | **Terminal**                  | [Alacritty](https://github.com/alacritty/alacritty)                                                          |
