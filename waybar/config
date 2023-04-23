@@ -4,8 +4,8 @@
     "height": 25, // Waybar height (to be removed for auto height)
     // "width": 1280, // Waybar width
     // Choose the order of the modules
-    "modules-left": ["clock","wlr/workspaces", "tray", "custom/media"],
-    "modules-center": ["sway/window"],
+    "modules-left": ["custom/apple", "clock","wlr/workspaces", "tray", "custom/media"],
+    // "modules-center": ["sway/window"],
     // "modules-right": ["mpd", "idle_inhibitor", "pulseaudio", "network", "cpu", "memory", "temperature", "backlight", "sway/language", "battery", "clock", "tray"],
     "modules-right": ["network", "cpu", "memory", "temperature", "pulseaudio", "backlight", "battery"],
     // Modules configuration
@@ -102,6 +102,7 @@
         //"format-alt": "{:%a %b %d}",
         "tooltip": false
     },
+
     "cpu": {
         "format": " {usage}%",
         "tooltip": false
@@ -173,5 +174,10 @@
         "escape": true,
         "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder
         // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
-    }
+    },
+
+    "custom/apple": {
+        "format": "",
+        "on-click": "wlogout"
+    },
 }

@@ -67,6 +67,8 @@
 @define-color date #1e1e2e;
 @define-color time #3A4253;
 @define-color backlight #1e1e2e;
+@define-color apple #1e1e2e;
+
 
 
 
@@ -108,13 +110,24 @@
     padding-bottom: 5px;
     margin-bottom: 3px;
 }
+
 #clock {
-    margin-right: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    margin-right: 5px;
     margin-top: 4px;
     padding-top: 5px;
     padding-bottom: 5px;
+    margin-bottom: 3px;
+}
+
+#custom-apple {
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-right: 5px;
+    margin-top: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     margin-bottom: 3px;
 }
 /* Each module that should blink */
@@ -185,6 +198,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     margin-bottom: 3px;
+    margin-right: 1px;
 
 }
 
@@ -250,8 +264,6 @@
 #clock {
     background: @date;
     border-radius: 8px;
-    border-top-left-radius: 16px;
-    margin-left: 5px;
     /* border-top-right-radius: 10px;
     border-bottom-right-radius: 10px; */
 }
@@ -266,4 +278,12 @@
 #tray {
 	background: @tray;
     border-radius: 8px;
+}
+
+#custom-apple {
+    font-size: 17px;
+    background: @apple;
+    border-radius: 8px;
+    border-top-left-radius: 16px;
+    margin-left: 5px;
 }
