@@ -27,6 +27,7 @@
     // },
     "wlr/workspaces": {
         
+        "sort-by-number": true,
         "format": "{icon}",
         "on-click": "activate",
         "format-icons": {
@@ -40,13 +41,13 @@
             "8": "8",
             "9": "9",
             "10": "10",
-            "11": "11",
-            "12": "12",
-            "13": "13",
-            "14": "14",
-            "15": "15",
+            // "11": "11",
+            // "12": "12",
+            // "13": "13",
+            // "14": "14",
+            // "15": "15",
             // "focused": "",
-        // },
+        },
         // "persistent_workspaces": {
         //     "1": [],
         //     "2": [],
@@ -58,7 +59,7 @@
         //     "8": [],
         //     "9": [],
         //     "10": [],
-        },
+        // },
     },
     "mpd": {
         "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {album} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ⸨{songPosition}|{queueLength}⸩ ",

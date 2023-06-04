@@ -182,9 +182,9 @@
 
 /* Workspaces stuff */
 
-#workspaces {
+/* #workspaces {
     border-radius: 8px;
-}
+} */
 
 
 #workspaces button {
@@ -193,7 +193,7 @@
 	padding-right: 10px;
 	color: @light;
 	background: @workspaces;
-    border-radius: 50%;
+    border-radius: 8px;
     margin-top: 4px;
     padding-top: 5px;
     padding-bottom: 5px;
