@@ -1,0 +1,36 @@
+{
+    "label" : "lock",
+    "action" : "swaylock -C ~/swaylock/frappe.conf -i ~/Allalaadimised/landscapes/evening-sky.png --clock --indicator",
+    "text" : "Lukustamine",
+    "keybind" : "l"
+}
+{
+    "label" : "hibernate",
+    "action" : "systemctl hibernate",
+    "text" : "Talveunestamine",
+    "keybind" : "h"
+}
+{
+    "label" : "logout",
+    "action" : "hyprctl dispatch exit",
+    "text" : "Väljalogimine",
+    "keybind" : "e"
+}
+{
+    "label" : "shutdown",
+    "action" : "systemctl poweroff",
+    "text" : "Väljalülitamine",
+    "keybind" : "s"
+}
+{
+    "label" : "suspend",
+    "action" : "systemctl suspend",
+    "text" : "Une",
+    "keybind" : "u"
+}
+{
+    "label" : "reboot",
+    "action" : "systemctl reboot",
+    "text" : "Taaskäivitamine",
+    "keybind" : "r"
+}
