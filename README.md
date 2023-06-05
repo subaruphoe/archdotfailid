@@ -21,6 +21,7 @@ Subaru Asahi Linux'i konfigud
 | **Rakendustekäivitaja**       | [Rofi-wayland](https://github.com/lbonn/rofi)                                                                |
 | **Teavitusteemon**            | [Dunst](https://github.com/dunst-project/dunst)                                                              |
 | **Kuvahaldur**                | [sddm-corners](https://github.com/aczw/sddm-theme-corners)                                                   |
+| **Väljalogimismenüü**         | [wlogout](https://github.com/ArtsyMacaw/wlogout)                                                             |
 | **Lukustusekraan**            | [swaylock](https://github.com/swaywm/swaylock)                                                               |
 | **Fondid**                    | [JetBrains-mono](https://www.jetbrains.com/lp/mono), [Nerd fonts](https://github.com/ryanoasis/nerd-fonts)   |
 | **Keeled**                    | et-EE, wuu-HU, en-US, zh-TW                                                                                  | 
