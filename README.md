@@ -1,4 +1,6 @@
 # archdotfailid
+Eesti | [English](README-EN.md)
+
 Subaru Asahi Linux'i konfigud
 
 ## Pildid
