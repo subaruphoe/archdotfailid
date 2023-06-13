@@ -1,4 +1,6 @@
 # archdotfailid
+Eesti | [English](README-EN.md)
+
 Subaru Asahi Linux'i konfigud
 
 ## Pildid
@@ -12,12 +14,13 @@ Subaru Asahi Linux'i konfigud
 | **Seade**                     | 14-tolline MacBook Pro (M1 Pro, 2021)
 | **Värviskeem**                | [Catppuccin Frappé - Blue](https://github.com/catppuccin/catppuccin)                                         |
 | **Aknahaldur**                | [Hyprland](https://github.com/hyprwm/Hyprland) (LegacyRendereriga)                                           |
-| **Terminal**                  | [Alacritty](https://github.com/alacritty/alacritty)                                                          |
+| **Terminal**                  | [kitty](https://github.com/kovidgoyal/kitty)                         |
 | **Tegumiriba**                | [Waybar](https://github.com/Alexays/Waybar)                                                                  |
+| **Tekstiredaktor**            | [LunarVim](https://github.com/LunarVim/LunarVim)                                                             |
 | **Brauser**                   | [Firefox](www.mozilla.org/et) [firefoxpwa](https://github.com/filips123/PWAsForFirefox) & [Dark Reader](https://addons.mozilla.org/et/firefox/addon/darkreader/)iga                                                                                   |
 | **Fetchimine**                | [Hyfetch](https://github.com/hykilpikonna/hyfetch)                                                           |
 | **Sisestusmeetodi raamistik** | [Fcitx5](https://github.com/fcitx/fcitx5)                                                                    |
-| **Failihaldur**               | [Dolphin](https://github.com/KDE/dolphin)                                                                    |
+| **Failihaldur**               | [Nautilus](https://github.com/GNOME/nautilus)                                                                |
 | **Rakendustekäivitaja**       | [Rofi-wayland](https://github.com/lbonn/rofi)                                                                |
 | **Teavitusteemon**            | [Dunst](https://github.com/dunst-project/dunst)                                                              |
 | **Kuvahaldur**                | [sddm-corners](https://github.com/aczw/sddm-theme-corners)                                                   |
